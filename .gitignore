@@ -161,3 +161,4 @@ cython_debug/
 stupred/
 Scripts/
 share/
+src/notebook/catboost_info
